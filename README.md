@@ -10,6 +10,8 @@ React based text editing application. With features like
 - Word, character and sentence count
 <br>
 
+### Deployed Link - https://yukti-j.github.io/TextUtils/
+
 Also enabled Dark and Light Modes and alert functionalities. 
 
 
